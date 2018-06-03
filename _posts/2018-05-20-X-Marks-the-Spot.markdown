@@ -4,6 +4,7 @@ title:  "X Marks the Spot"
 date:   2018-05-20 12:54:29 +0100
 categories: stoicism software
 ---
+
 > I want to look back at the past ten years and tear it apart. I want to dissect and examine it, piece by piece until I find what I'm looking for.
 
 The first post of any blog is always the hardest. It tends to set the tone; if not for the audience, then definitely for the author. With that in mind, I'll strive to keep things interesting and upbeat. However, since it has been quite a few years since my last blogpost I'll ask that you cut me just a bit of slack. I'm a bit rusty.
@@ -36,14 +37,20 @@ My entire career I have felt like a blocked pipe. I've been stuck in the mud. I'
 
 > Over the years I had handed over all of my self-worth to my ego, and it did not have kind things to say.
 
-Deep Imposter Syndrome set in. My self-esteem plummeted. I eventually lost the will to learn because if I didn't know it by now I was never going to. Years of this poisonous, self-amplifying mindset ate at me like an acid, and certainly contributed in large amount to my crisis in the new year.
+Over the course of eight years, deep Imposter Syndrome set in. My self-esteem plummeted. I eventually lost the will to learn because if I didn't know it by now I was never going to. Almost a decade of this poisonous, self-amplifying mindset ate at me like an acid, and certainly contributed in large amount to my crisis in the new year.
 
 And it was out of this crisis I discovered just how intricate and cunning my ego really is. For years I was assured I had no ego, how could I if I judged myself so harshly? Ego meant pompousness, machismo, big headed-ness. That little voice that was telling me I was no good? That wasn't my ego, that was my own pure, objective thought. How could it be anything but right?
 
 My ego was happy to let me believe this. My ego was my enemy. It still is.
 
-Stoicism teaches many things, but one thing I have taken closer to heart than anything else is is the lesson above. It has become my mantra. Over the years I had handed over all of my self-worth to my ego, and it did not have kind things to say. However, through Stoic practises like journalling, reflection and meditation I have managed to take back a modicum of control. In the past, I have been crippled by indecisiveness, now I'm learning to trust my instincts. My Imposter Syndrome has receded to a point where I am no longer afraid to ask potentially silly questions in my place of work for fear of appearing foolish, because, hell, who am I to know everything? I'm not saying I've been miraculously cured. The impostor inside me is still alive and well, constantly challenging my decisions and trying to make me doubt myself. He's just a lot quieter these days.
+Stoicism teaches many things, but one thing I have taken closer to heart than anything else is is the lesson above. It has become my mantra. Over the years I had handed over all of my self-worth to my ego, and it did not have kind things to say. However, through Stoic practises like journalling, reflection and meditation I have managed to take back a modicum of control. Every day I make an effort to read my own personal [12 Rules](https://dailystoic.com/12-rules-stoic-life/) and to uphold them as best as I can. What I have witnessed is that this succeeding change in my behaviour has reaped untold benefits in my work. I'm find myself far more attentive and effective, and no longer is my nine-to-five a prospect of despair. My Imposter Syndrome has receded to a point where I am no longer afraid to ask potentially silly questions in my place of work for fear of appearing foolish, because, hell, who am I to know everything? I'm not saying I've been miraculously cured. The impostor inside me is still alive and well, constantly challenging my decisions and trying to make me doubt myself. He's just a lot quieter these days.
 
 My ego is still around too, and he chimes up every now and then. He tells me I suck less and less these days, but it's just as important to ignore him (or her) when he praises you. You alone know your own true value.
 
-Another lesson Stoicism teaches is gratitude - which brings me back to my map. I want to see those mistakes, I want to chart the trajectory of my errors that lead me to that cold morning in January. Not because I want to see where I went wrong and how I could have corrected it, but instead because I am grateful for every single of of those mistakes. I want to look back, reflect on each moment and be grateful it happened because they have led me to where I am today: happier, more engaged, and fulfilled with my work.
+> Gratitude has become a very important part of my life, and that is why I want my map.
+
+I told you I'd tell you a story about how a single aspect of Stoicism has changed my life, and I have done just that. However, there is one more thing I would like to mention, and that is the importance which Stoicism places on gratitude. During times of great trial my Father used to remind me of how much I had to be grateful for. At the time, of course, I didn't listen. How I wish I did. Gratitude has become a very important part of my life, and that is why I want my map. I want to see those mistakes, I want to chart the trajectory of my errors that lead me to that cold morning in January. Not because I want to see where I went wrong and how I could have corrected it, but instead because I am grateful for every single of of those mistakes. I want to look back, reflect on each moment and be grateful it happened because they have led me to where I am today: happier, more engaged, and fulfilled with my work.
+
+---
+
+Hopefully this will serve as a good example to some of you as to how closely philosophy and software can be intertwined. Imposter Syndrome is very real and has had devastating affects on me, if you also suffer from it Stoicism might be something worth looking into. I highly recommend [Daily Stoic](dailystoic.com) as a first stop.
