@@ -27,3 +27,9 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# Added at 2018-06-03 15:11:23 +0100 by davidmorris:
+gem "jekyll-paginate", "~> 1.1"
+
+# Added at 2018-06-03 15:11:50 +0100 by davidmorris:
+gem "jekyll-gist", "~> 1.5"
