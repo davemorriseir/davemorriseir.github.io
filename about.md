@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+So, I'm Dave. Dave Morris. I'm a Software Developer by trade, with a keen interest in people and how we all work. I'm also partial to film, books, writing, music and anything creative.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You'll find a healthy mix of Software and Philosophy on this blog, and mostly how the two relate together more than you might think.
 
-
-[jekyll-organization]: https://github.com/jekyll
+If you have any questions, feel free to get in touch!

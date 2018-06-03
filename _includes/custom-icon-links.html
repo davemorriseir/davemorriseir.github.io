@@ -1,0 +1,19 @@
+{% if site.author.twitter_username %}
+    <a id="twitter-link"
+       class="icon"
+       target="_blank"
+       title="Twitter" aria-label="Twitter"
+       href="{{site.author.twitter_username}}">
+      {% include svg/twitter.svg %}
+    </a>
+{% endif %}
+
+{% if site.author.github_repo %}
+  <a id="github-link"
+     class="icon"
+     target="_blank"
+     title="Github" aria-label="Github"
+     href="{{site.author.github_repo}}">
+    {% include svg/github.svg %}
+  </a>
+{% endif %}
