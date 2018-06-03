@@ -4,6 +4,7 @@ title:  "X Marks the Spot"
 date:   2018-05-20 12:54:29 +0100
 categories: stoicism software
 ---
+> I want to look back at the past ten years and tear it apart. I want to dissect and examine it, piece by piece until I find what I'm looking for.
 
 The first post of any blog is always the hardest. It tends to set the tone; if not for the audience, then definitely for the author. With that in mind, I'll strive to keep things interesting and upbeat. However, since it has been quite a few years since my last blogpost I'll ask that you cut me just a bit of slack. I'm a bit rusty.
 
@@ -14,6 +15,8 @@ I want to look back at the past ten years and tear it apart. I want to dissect a
 This may sound a little bleak, but stick with me, I promise it picks up.
 
 Every stumble and every fall over the course of the past ten years, both professional and personal has taken it's toll on me. They've taught me hard learned lessons about life, love, work, and myself among other things. Some left me discouraged and disillusioned, others left me callous and closed off. Some have even been of my own design. They have been the hardest to recover from, in my humble opinion.
+
+> I committed to making some much needed changes in my life - I couldn't afford to let this happen at this scale again.
 
 So what, right? I'm not the only person who has ever made a mistake, took a hit, or slipped up. Every single person on this planet pays their own toll - it's a fact of life. But in early January 2018, I woke up one Monday morning with nothing but moths in my wallet. I had been in the midst of a personal crisis for about four months at this point. It wasn't the first, and probably won't be the last but it had certainly been the worst up until this point. I was lost. I didn't know what to do.
 
@@ -30,6 +33,8 @@ My entire career I have felt like a blocked pipe. I've been stuck in the mud. I'
 "I hate Software Development!" I screamed!
 
 "I'm not good enough for this..." I moaned.
+
+> Over the years I had handed over all of my self-worth to my ego, and it did not have kind things to say.
 
 Deep Imposter Syndrome set in. My self-esteem plummeted. I eventually lost the will to learn because if I didn't know it by now I was never going to. Years of this poisonous, self-amplifying mindset ate at me like an acid, and certainly contributed in large amount to my crisis in the new year.
 
