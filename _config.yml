@@ -27,7 +27,6 @@ author:
 paginate: 5
 # Build settings
 markdown: kramdown
-highlighter: rouge
 theme: jekyll-theme-hydeout
 sidebar_home_link: true
 plugins:
