@@ -1,0 +1,15 @@
+---
+# Jekyll needs front matter for SCSS files
+---
+.profile-pic {
+  height: 260px;
+  width: 260px;
+}
+
+@media (max-width: 49rem) {
+  .profile-pic {
+    display: none;
+  }
+}
+
+@import "hydeout";
