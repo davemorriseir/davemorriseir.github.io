@@ -17,3 +17,13 @@
     {% include svg/github.svg %}
   </a>
 {% endif %}
+
+{% if site.author.email %}
+  <a id="email-link"
+     class="icon"
+     target="_blank"
+     title="Email" aria-label="Email"
+     href="mailto:{{site.author.email}}">
+    {% include svg/envelope.svg %}
+  </a>
+{% endif %}
